@@ -5,7 +5,7 @@
 ## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
 ## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
 ## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
-M100,White Men's Shirt,Men,,https://github.com/ruchitamhatre91/targetfeed/blob/main/p1.png,,http://localhost/famm/product.html,,,,,,,,,,,,,
-M101,Black Men's Shirt,Men,,https://github.com/ruchitamhatre91/targetfeed/blob/main/p2.png,,http://localhost/famm/product.html,,,,,,,,,,,,,
-W100,Blue Women's Dress,Women,,https://github.com/ruchitamhatre91/targetfeed/blob/main/p3.png,,http://localhost/famm/product.html,,,,,,,,,,,,,
-W101,Red Women's Dress,Women,,https://github.com/ruchitamhatre91/targetfeed/blob/main/p4.png,,http://localhost/famm/product.html,,,,,,,,,,,,,
+M100,White Men's Shirt,Men,,https://raw.githubusercontent.com/ruchitamhatre91/targetfeed/main/p1.png,,http://localhost/famm/product.html,,,,,,,,,,,,,
+M101,Black Men's Shirt,Men,,https://raw.githubusercontent.com/ruchitamhatre91/targetfeed/main/p2.png,,http://localhost/famm/product.html,,,,,,,,,,,,,
+W100,Blue Women's Dress,Women,,https://raw.githubusercontent.com/ruchitamhatre91/targetfeed/main/p3.png,,http://localhost/famm/product.html,,,,,,,,,,,,,
+W101,Red Women's Dress,Women,,https://raw.githubusercontent.com/ruchitamhatre91/targetfeed/main/p4.png,,http://localhost/famm/product.html,,,,,,,,,,,,,
